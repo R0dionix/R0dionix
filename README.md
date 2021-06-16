@@ -10,10 +10,10 @@
 
 **Мои навыки:**
 
-![HTML5](https://img.shields.io/badge/-Html5-orange)
-![CSS](https://img.shields.io/badge/-Css-blue)
-![SCSS](https://img.shields.io/badge/-Scss-c76494)
-![Jquery](https://img.shields.io/badge/-Jquery-0268ae)
-![Wordpress](https://img.shields.io/badge/-Wordpress-1a749d)
-![Photoshop](https://img.shields.io/badge/-Photoshop-001833)
-![Figma](https://img.shields.io/badge/-Figma-02d084)
+![HTML5](https://img.shields.io/badge/-Html5-orange?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-Css3-blue?style=flat&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/-Scss-c76494?style=flat&logo=sass&logoColor=white)
+![Jquery](https://img.shields.io/badge/-Jquery-0268ae?style=flat&logo=jquery&logoColor=white)
+![Wordpress](https://img.shields.io/badge/-Wordpress-1a749d?style=flat&logo=wordpress&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-001833?style=flat&logo=adobe&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-02d084?style=flat&logo=figma&logoColor=white)
