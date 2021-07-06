@@ -9,7 +9,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-white?style=flat-&logo=telegram&logoColor=white&link=https://t.me/Rodionix/)](https://t.me/Rodionix/)
 
 ## 💡 Мои интересы:
-- 💻 Веб - разработка
+- 💻 Веб - разработка1
 - 🎨 Веб - дизайн
 
 ## ⚡ Технологии:
