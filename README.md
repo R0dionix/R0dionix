@@ -9,7 +9,7 @@
 [Портфолио](https://r0dionix.github.io/ "Portfolio")
 
 ##
-[![Vk Badge](https://img.shields.io/badge/-Vk-2787f5?style=flat-&logo=vk&logoColor=white&link=https://vk.com/rodionzuzenkov/)](https://vk.com/rodionzuzenkov/)
+[![Vk Badge](https://img.shields.io/badge/-Vk-2787f5?style=flat-&logo=vk&logoColor=white&link=https://vk.com/rodion_zuzenkov/)](https://vk.com/rodion_zuzenkov/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-41abe1?style=flat-&logo=twitter&logoColor=white&link=https://twitter.com/R0dionix/)](https://twitter.com/R0dionix/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-white?style=flat-&logo=telegram&logoColor=white&link=https://t.me/Rodionix/)](https://t.me/Rodionix/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=flat-&logo=instagram&logoColor=red&link=https://www.instagram.com/r0dionix/)](https://www.instagram.com/r0dionix/)
