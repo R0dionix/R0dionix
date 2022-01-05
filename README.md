@@ -31,5 +31,6 @@
 ![Wordpress](https://img.shields.io/badge/-Wordpress-1a749d?style=flat&logo=wordpress&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-025194?style=flat&logo=mysql&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-e94e31?style=flat&logo=git&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-001833?style=flat&logo=adobe&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-02d084?style=flat&logo=figma&logoColor=white)
