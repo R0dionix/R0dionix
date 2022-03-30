@@ -29,6 +29,7 @@
 ![Responsive](https://img.shields.io/badge/-Responsive-brightgreen?style=flat&logo=css3&logoColor=white)
 ![Flexbox](https://shields.io/badge/-Flexbox-02bfb1?style=flat&logo=css3&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-1a749d?style=flat&logo=wordpress&logoColor=white)
+![Php](https://img.shields.io/badge/-Php-787cb4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-025194?style=flat&logo=mysql&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-e94e31?style=flat&logo=git&logoColor=white)
