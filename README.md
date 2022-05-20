@@ -35,6 +35,7 @@
 ![Git](https://img.shields.io/badge/-Git-e94e31?style=flat&logo=git&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-001833?style=flat&logo=adobe&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-02d084?style=flat&logo=figma&logoColor=white)
+![Composer](https://img.shields.io/badge/-Composer-f78b03?style=flat&logo=composer&logoColor=white)
 
 ## ⭐ Статистика:
 ![Rodionix GitHub stats](https://github-readme-stats.vercel.app/api?username=R0dionix&show_icons=true)
