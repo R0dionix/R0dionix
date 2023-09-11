@@ -5,9 +5,6 @@
 
 В своей работе я применяю комплексный стандартизированный подход к процессу прототипирования, дизайна и разработки, что гарантирует качество конечного продукта.
 
-## 
-[Блог](https://r0dionix.github.io/ "Blog")
-
 ##
 [![Vk Badge](https://img.shields.io/badge/-Vk-2787f5?style=flat-&logo=vk&logoColor=white&link=https://vk.com/rodion_zuzenkov/)](https://vk.com/rodion_zuzenkov/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-41abe1?style=flat-&logo=twitter&logoColor=white&link=https://twitter.com/R0dionix/)](https://twitter.com/R0dionix/)
